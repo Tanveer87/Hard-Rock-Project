@@ -119,3 +119,4 @@ const displayError = error => {
     const errorTag = document.getElementById('error-message');
     errorTag.innerText = error;
 }
+
