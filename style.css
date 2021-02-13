@@ -1,7 +1,7 @@
 body{
     background-color: #13141b;
     color: #ffffff;
-    background-image: url(images/bg-image.png);
+    background-image: url(images/battle-of-the-bands.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top;
@@ -27,6 +27,8 @@ body{
 }
 .search-box{
     position: relative;
+    background-color: white;
+    border-radius: 1.5rem;
 }
 .search-btn {
     position: absolute;
